@@ -1,0 +1,12 @@
+C:\Users\dotax\source\repos\MongoDb\Mongo.Core\bin\Debug\net5.0\Mongo.Core.deps.json
+C:\Users\dotax\source\repos\MongoDb\Mongo.Core\bin\Debug\net5.0\Mongo.Core.dll
+C:\Users\dotax\source\repos\MongoDb\Mongo.Core\bin\Debug\net5.0\ref\Mongo.Core.dll
+C:\Users\dotax\source\repos\MongoDb\Mongo.Core\bin\Debug\net5.0\Mongo.Core.pdb
+C:\Users\dotax\source\repos\MongoDb\Mongo.Core\obj\Debug\net5.0\Mongo.Core.csprojAssemblyReference.cache
+C:\Users\dotax\source\repos\MongoDb\Mongo.Core\obj\Debug\net5.0\Mongo.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dotax\source\repos\MongoDb\Mongo.Core\obj\Debug\net5.0\Mongo.Core.AssemblyInfoInputs.cache
+C:\Users\dotax\source\repos\MongoDb\Mongo.Core\obj\Debug\net5.0\Mongo.Core.AssemblyInfo.cs
+C:\Users\dotax\source\repos\MongoDb\Mongo.Core\obj\Debug\net5.0\Mongo.Core.csproj.CoreCompileInputs.cache
+C:\Users\dotax\source\repos\MongoDb\Mongo.Core\obj\Debug\net5.0\Mongo.Core.dll
+C:\Users\dotax\source\repos\MongoDb\Mongo.Core\obj\Debug\net5.0\ref\Mongo.Core.dll
+C:\Users\dotax\source\repos\MongoDb\Mongo.Core\obj\Debug\net5.0\Mongo.Core.pdb
